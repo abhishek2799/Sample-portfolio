@@ -17,6 +17,7 @@
 }
 
 .navbar {
+  z-index:100;
   padding-top: 2px;
   padding-left: 10%;
   padding-right: 6%;
